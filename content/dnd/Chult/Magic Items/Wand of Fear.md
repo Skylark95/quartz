@@ -3,7 +3,7 @@ title: "Wand of Fear"
 tags: 
 - dnd
 - Chult Campaign
-- Magic Items
+- Chult Magic Items
 ---
 
 Requires Attunement

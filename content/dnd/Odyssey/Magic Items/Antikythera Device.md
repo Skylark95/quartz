@@ -3,7 +3,7 @@ title: "Antikythera Device"
 tags: 
 - dnd
 - Odyssey Campaign
-- Magic Items
+- Oddysey Magic Items
 ---
 
 Wondrous item, legendary (requires attunement)

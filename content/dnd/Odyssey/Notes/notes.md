@@ -3,6 +3,7 @@ title: "Notes"
 tags: 
 - dnd
 - Odyssey Campaign
+- Odyssey Notes
 ---
 
 Kyrah - agent of the oracle

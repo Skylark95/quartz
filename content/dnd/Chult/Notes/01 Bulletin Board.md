@@ -3,6 +3,7 @@ title: "Bulletin Board"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 - The Flaming Fist wants YOU! Register at Fort Beluarian to receive a newly smithed set of armor and weapons, and help us take back the jungle from the undead hordes!

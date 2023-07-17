@@ -3,6 +3,7 @@ title: "Kier Sabal"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 Bird folk

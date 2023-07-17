@@ -3,6 +3,7 @@ title: "Waterdeep"
 tags: 
 - dnd
 - Waterdeep Campaign
+- Waterdeep Notes,
 ---
 
 The DM (GM):Search for that which remains unseen, find the one with hand unclean.

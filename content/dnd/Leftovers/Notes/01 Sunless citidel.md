@@ -3,6 +3,7 @@ title: "Sunless Citadel"
 tags: 
 - dnd
 - Leftovers Campaign
+- Leftovers Notes
 ---
 
 Rumor: town of ocursed (mid-summer) have a annual celebration, goblins sell strange fruit (50gp) - is a perfect apple that heals any disease or ailment.

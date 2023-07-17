@@ -3,7 +3,7 @@ title: "Luckstone"
 tags: 
 - dnd
 - Leftovers Campaign
-- Magic Items
+- Leftovers Magic Items
 ---
 Wondrous item, uncommon (requires attunement)
 

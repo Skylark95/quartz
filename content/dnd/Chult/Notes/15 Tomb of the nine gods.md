@@ -3,6 +3,7 @@ title: "Tomb of the nine gods"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 - Acerekak's Second Warning Handout

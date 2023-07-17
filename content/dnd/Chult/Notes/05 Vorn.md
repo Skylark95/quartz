@@ -3,6 +3,7 @@ title: "Vorn"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 8 ft statue, offerings around feet - Shield Guardian

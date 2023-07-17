@@ -3,6 +3,7 @@ title: "Orolunga"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 Massive brick and stone ziggerot

@@ -3,6 +3,7 @@ title: "Leaving Vorn"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 Tree with an eyeball and mouth?

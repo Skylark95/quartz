@@ -3,6 +3,7 @@ title: "Goldenfields"
 tags: 
 - dnd
 - Waterdeep Campaign
+- Waterdeep Notes
 ---
 
 - Exemplar of Shawteah

@@ -3,6 +3,7 @@ title: "Nangalore"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 Eblis - big birds

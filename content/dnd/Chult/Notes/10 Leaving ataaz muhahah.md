@@ -3,6 +3,7 @@ title: "Leaving ataaz muhahah"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 Found camp, bunch of plant traps

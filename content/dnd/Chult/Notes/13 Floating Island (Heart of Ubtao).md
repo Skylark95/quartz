@@ -3,6 +3,7 @@ title: "Floating Island (Heart of Ubtao)"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 Stone heart hanging in the sky

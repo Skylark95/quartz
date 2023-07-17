@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 ## DND Notes by campaign
-- [Odyssey Campaign](/tags/Odyssey-Campaign/)
-- [Waterdeeep Campaign](/tags/Waterdeep-Campaign/)
-- [Leftovers Campaign](/tags/Leftovers-Campaign/)
-- [Chult Campaign](/tags/Chult-Campaign/)
+- [Odyssey Campaign](/dnd/Odyssey/campaign.md)
+- [Waterdeeep Campaign](/dnd/Waterdeep/campaign.md)
+- [Leftovers Campaign](/dnd/Leftovers/campaign.md)
+- [Chult Campaign](/dnd/Chult/campaign.md)

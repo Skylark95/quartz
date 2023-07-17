@@ -3,6 +3,7 @@ title: "Undermountain Level 16 Crystal Maze"
 tags: 
 - dnd
 - Waterdeep Campaign
+- Waterdeep Notes
 - Undermountain
 ---
 - Crystal over pit with mist inside

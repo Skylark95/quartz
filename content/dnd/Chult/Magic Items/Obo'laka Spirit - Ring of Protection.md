@@ -3,7 +3,7 @@ title: "Obo'laka Spirit / Ring of Protection"
 tags: 
 - dnd
 - Chult Campaign
-- Magic Items
+- Chult Magic Items
 ---
 Obo'laka
 (pronounced oh-boh-LAH-kah)

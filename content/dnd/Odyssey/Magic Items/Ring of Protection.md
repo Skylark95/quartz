@@ -3,7 +3,7 @@ title: "Ring of Protection"
 tags: 
 - dnd
 - Odyssey Campaign
-- Magic Items
+- Odyssey Magic Items
 ---
 - Sounds base of neck, voices
 - Remember us, remember us, save us, bring us back

@@ -3,6 +3,7 @@ title: "Mezro"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 Found camp, bunch of plant traps

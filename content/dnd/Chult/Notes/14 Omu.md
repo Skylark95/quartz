@@ -3,6 +3,7 @@ title: "Omu"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 As we approach a few hexes away, no animals
 

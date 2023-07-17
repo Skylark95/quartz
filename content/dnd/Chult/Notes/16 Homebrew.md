@@ -3,6 +3,7 @@ title: "Homebrew"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 - Artis Simber

@@ -3,7 +3,7 @@ title: "Oathbinder"
 tags: 
 - dnd
 - Chult Campaign
-- Magic Items
+- Chult Magic Items
 ---
 Legendary warhammer (requires attunment by a creature of non-evil alignment)
 

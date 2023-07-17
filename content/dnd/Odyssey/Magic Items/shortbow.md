@@ -3,7 +3,7 @@ title: "Shortbow of Cupidity"
 tags: 
 - dnd
 - Odyssey Campaign
-- Magic Items
+- Odyssey Magic Items
 ---
 
 Weapon (shortbow), legendary (requires attunement)

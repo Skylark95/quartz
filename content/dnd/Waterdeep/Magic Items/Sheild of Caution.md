@@ -3,7 +3,7 @@ title: "Shield of Caution"
 tags: 
 - dnd
 - Waterdeep Campaign
-- Magic Items
+- Waterdeep Magic Items
 ---
 
 - While attuned to this shield you gain the following benefits:

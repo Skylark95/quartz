@@ -3,6 +3,7 @@ title: "Mbala to Orolunga"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 - Killed a bunch of villagers we thought were zombies

@@ -3,6 +3,7 @@ title: "Leaving Port"
 tags: 
 - dnd
 - Chult Campaign
+- Chult Notes
 ---
 
 Frost giants

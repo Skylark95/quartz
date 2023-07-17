@@ -3,7 +3,7 @@ title: "Bracers of Archery"
 tags: 
 - dnd
 - Chult Campaign
-- Magic Items
+- Chult Magic Items
 ---
 
 Wondrous item, uncommon (requires attunement)
