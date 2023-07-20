@@ -207,3 +207,7 @@ Storm
 - Isle of Yonder is the headquarters of the Order of Sydon
 - 100 sailors have volunteered to be a part of our crew
 - **Handout:** a players map to the stars
+
+## Isle of Yonder
+- Follow the trail and you'll find Gyus
+
