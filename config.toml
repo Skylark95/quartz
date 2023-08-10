@@ -1,4 +1,4 @@
-baseURL = "https://notes.derek.games/"
+baseURL = "https://quartz.derek.games/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
